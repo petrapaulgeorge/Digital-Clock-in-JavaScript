@@ -16,7 +16,7 @@
     border-radius: 15px;
 }
 
-#r {
+#relase {
     text-align: center;
     color: aliceblue;
     font-size: 12px;
@@ -24,10 +24,22 @@
     letter-spacing: 4px;
 }
 
-#b {
+#by {
     text-align: center;
     color: aliceblue;
     font-size: 12px;
     font-family: 'Roboto Flex', sans-serif;
     letter-spacing: 1px;
+}
+
+#s {
+    color:aliceblue;
+    text-align: center;
+}
+
+a {
+    color:aliceblue;
+    text-decoration: none;
+    font-family: 'Roboto Flex', sans-serif;
+    font-size: 12px;
 }
