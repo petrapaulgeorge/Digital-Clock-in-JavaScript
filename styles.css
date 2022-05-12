@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,300&display=swap');
+
+* {
+    background-color: #005555;
+}
+
+#clock {
+    font-size: 115px;
+    font-family: 'Roboto Flex', sans-serif;
+    color: aliceblue;
+    background-color: #069A8E;
+    width: 800px;
+    margin: 200px;
+    text-align: center;
+    border: 4px solid aliceblue;
+    border-radius: 15px;
+}
+
+#r {
+    text-align: center;
+    color: aliceblue;
+    font-size: 12px;
+    font-family: 'Roboto Flex', sans-serif;
+    letter-spacing: 4px;
+}
+
+#b {
+    text-align: center;
+    color: aliceblue;
+    font-size: 12px;
+    font-family: 'Roboto Flex', sans-serif;
+    letter-spacing: 1px;
+}
